@@ -1,0 +1,13 @@
+{
+    "name": "xbsoft/exception",
+    "description": "Exception of XBsoft",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "enze",
+            "email": "enzewei@gmail.com"
+        }
+    ],
+    "require": {}
+}
