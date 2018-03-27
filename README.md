@@ -1,0 +1,2 @@
+# exception
+Exception of XBsoft
